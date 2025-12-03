@@ -1,0 +1,7 @@
+Github change after the push.
+Github change 2.
+<<<<<<< HEAD
+local change 3
+=======
+Github change 3.
+>>>>>>> origin/main
